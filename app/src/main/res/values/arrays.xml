@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="daftar_skill">
+        <item>PHP</item>
+        <item>Javascript</item>
+        <item>C++</item>
+        <item>Python</item>
+        <item>Go</item>
+        <item>Rust</item>
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>C#</item>
+        <item>Typescript</item>
+    </string-array>
+    <integer-array name="daftar_pengalaman">
+        <item>4</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+</resources>
